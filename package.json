@@ -14,15 +14,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Ezeki-el/clone_disneyplus.git"
+        "url": "git+https://github.com/Ezeki-el/clone_site_disney.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Ezeki-el/clone_disneyplus/issues"
+        "url": "https://github.com/Ezeki-el/clone_site_disney/issues"
     },
-    "homepage": "https://github.com/Ezeki-el/clone_disneyplus#readme",
+    "homepage": "https://github.com/Ezeki-el/clone_site_disney#readme",
     "devDependencies": {
         "gulp": "^4.0.2",
         "gulp-imagemin": "^7.1.0",
